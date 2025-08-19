@@ -37,7 +37,7 @@ fast because multithreaded.
 
 ---
 
-**developed by @cleanest** 
+**Coded by @cleanest in Discord** 
 
 
 discord: https://discord.gg/QgqKpKVG5t
